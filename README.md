@@ -1,8 +1,8 @@
-# Notas:
+# Notes:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Basic socket application with socket.io
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Remember install node dependencies with the command
 
 ```
 npm install
